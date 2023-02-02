@@ -1,3 +1,9 @@
+"""
+    Esse modulo verifica qual é o maior numero 
+    e cria a média de dois valores
+"""
+
+
 def calcNum(x, y):
     media = (x+y)/2
     if x > y:

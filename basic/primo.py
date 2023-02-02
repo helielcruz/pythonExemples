@@ -1,3 +1,6 @@
+"""Esse modulo tem como objetivo retornar
+se um numero é primo ou não"""
+
 numero = int(input("Insira um numero para saber se ele é primo: "))
 
 if numero > 1:
