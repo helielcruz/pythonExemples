@@ -1,5 +1,7 @@
-palpite = 0
-numero = 9
+from random import randint
+
+palpite = None
+numero = randint(0,2)
 while True:
     print("Qual o número correto: ")
     palpite = int(input())
