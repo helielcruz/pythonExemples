@@ -1,0 +1,5 @@
+ImaginaçãoImaginação 
+    Estes modos são passados como segundo parâmetro do método open.
+     Ou seja, se quisermos abrir um arquivo em modo de escrita,
+      utilizamos a seguinte sintaxe:
+ 
